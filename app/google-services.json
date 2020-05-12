@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "546460128110",
+    "firebase_url": "https://schedule-f5adf.firebaseio.com",
+    "project_id": "schedule-f5adf",
+    "storage_bucket": "schedule-f5adf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546460128110:android:a1874831f8ae2386c3677f",
+        "android_client_info": {
+          "package_name": "net.luclam.schedule"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546460128110-0jicplvmc5okbq3uirl37v1s1htadund.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.luclam.schedule",
+            "certificate_hash": "80bf95aae7df44c76ab05a3ecd43d656090857ab"
+          }
+        },
+        {
+          "client_id": "546460128110-3ckt9b75kg9n84t2j2rsp51i8pp71b69.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrnqlKl7b-1NAGR9KnB7U4ZvWuCMlz_gk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546460128110-3ckt9b75kg9n84t2j2rsp51i8pp71b69.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

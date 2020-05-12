@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">My Schedule</string>
+    <string name="login">Đăng nhập</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Đăng ký</string>
+    <string name="sign_up_under"> <u>Đăng ký</u> </string>
+    <string name="forgot_password"> <u>Quên mật khẩu?</u> </string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="invalid_email">Email không hợp lệ</string>
+    <string name="password_cannot_be_empty">Mật khẩu không thể trống</string>
+    <string name="password_least_six_characters">Mật khẩu tối thiểu gồm 6 ký tự</string>
+    <string name="password_incorrect">Mật khẩu không khớp</string>
+    <string name="sign_up_success">Đăng ký thành công</string>
+    <string name="email_already_use_another_account">Email đã được sử dụng bởi một tài khoản khác</string>
+    <string name="no_network_connection">Không có kết nối mạng.</string>
+    <string name="login_success">Đăng nhập thành công</string>
+    <string name="invalid_password_or_account_not_exist">Mật khẩu không hợp lệ hoặc tài khoản không tồn tại</string>
+    <string name="my_schedule">Lịch của tôi</string>
+    <string name="month">Tháng&#160;</string>
+    <string name="_8942">⋮</string>
+    <string name="time_with_space">Thời gian:&#160;</string>
+    <string name="do_you_want_to_delete_note">Bạn muốn xoá ghi chú?</string>
+    <string name="edit">Sửa</string>
+    <string name="delete">Xoá</string>
+    <string name="cancel">Huỷ bỏ</string>
+    <string name="confirm">Xác nhận</string>
+    <string name="delete_note">Xoá ghi chú</string>
+    <string name="date">Ngày</string>
+    <string name="description">Mô tả</string>
+    <string name="title">Tiêu đề</string>
+    <string name="time">Thời gian</string>
+    <string name="insert_note">Thêm ghi chú</string>
+    <string name="update_note">Sửa ghi chú</string>
+    <string name="title_cannot_be_empty">Tiêu đề không thể trống</string>
+    <string name="date_cannot_be_empty">Ngày không thể trống</string>
+    <string name="insert_note_success">Thêm ghi chú thành công</string>
+    <string name="update_note_success">Sửa ghi chú thành công</string>
+    <string name="logout">Đăng xuất</string>
+    <string name="do_you_want_to_logout">Bạn muốn đăng xuất?</string>
+    <string name="do_not_have_an_account">Bạn chưa có tài khoản?</string>
+    <string-array name="day_column_names">
+        <item>T2</item>
+        <item>T3</item>
+        <item>T4</item>
+        <item>T5</item>
+        <item>T6</item>
+        <item>T7</item>
+        <item>CN</item>
+    </string-array>
+</resources>
